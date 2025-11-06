@@ -104,7 +104,7 @@ banner_size: "half" # change to "full" if you want a full-width image
 # If you decide to set a default here, you can still override it on individual 
 # items by filling in "file_edited_by:" in the item's frontmatter/metadata.
 
-editor: Editor(s) names here
+editor: Melissa J. Lingle-Martin
 
 
 
@@ -117,16 +117,14 @@ editor: Editor(s) names here
 # appear on the site, remove the '#" from the beginning of the line.
 
 author:
-  name: Your name(s)
-  email: contact-email@example.com
-  institution: Your institution(s) or organization(s)
+  name: Melissa J. Lingle-Martin
+  email: m.j.linglemartin@gmail.com
+  institution: George Mason University Korea
 
 #privacy_notice: https://www.example.com/your-privacy-notice-url
 
 #twitter_username: YourUsername
-github_username:  YourUsername
 #dribbble_username: YourUsername
-facebook_username: YourUsername
 #flickr_username: YourUsername
 #instagram_username: YourUsername
 #linkedin_username: YourUsername

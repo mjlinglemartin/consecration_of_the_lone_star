@@ -1,0 +1,28 @@
+---
+layout: poem
+title: 
+permalink: 
+
+# Source Metadata
+author: Frances H. Green
+poem_title: Consecration of the Lone Star
+publication_title: The Liberator
+publication_editor: 
+publisher: 
+publication_place: 
+publication_date:1845
+
+# Edition Metadata
+
+# Contributors
+contributors: 
+  - Person 1 # To add more people, copy and paste this line, including the 2 spaces at the beginning of the line. To list none, delete this line.
+
+# Editors
+file_edited_by: Melissa J. Lingle-Martin
+  - Person 1 # To add more editors, copy and paste this line, including the 2 spaces at the beginning of the line. If there are none, or to use the editor(s) listed in _config.yml, delete this line.
+---
+
+# Poem Title Here
+
+Here's where I need to put the markdowned text. 
